@@ -3,11 +3,11 @@
   <channel>
     <title>QualiVerse System</title>
     <item>
-      <title>Version 1.0.8</title>
-      <description>Automatic Windows update v1.0.8</description>
-      <pubDate>Tue, 29 Sep 2026 15:15:37 GMT</pubDate>
+      <title>Version 1.0.9</title>
+      <description>Automatic Windows update v1.0.9</description>
+      <pubDate>Wed, 30 Sep 2026 14:27:59 GMT</pubDate>
       <enclosure url="https://raw.githubusercontent.com/MohamedSaad2010/qualiverse_system_update/main/qualiverse_system_setup.exe"
-                 sparkle:version="1.0.8"
+                 sparkle:version="1.0.9"
                  sparkle:os="windows"
                  type="application/octet-stream" />
     </item>
