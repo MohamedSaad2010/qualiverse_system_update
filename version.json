@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "force": false,
   "url": "https://raw.githubusercontent.com/MohamedSaad2010/qualiverse_system_update/main/qualiverse_system_setup.exe",
-  "sha256": "f7536bd4e7c0a361ebdf3dde547bb14327f8a65a32b268a2a88d2712b1410c34",
-  "notes": "Automatic Windows update v1.0.10",
-  "publishedAt": "2026-10-04T10:57:28.2044808Z"
+  "sha256": "43fe28f4f686f011ef010e1228d22876369a9012d276e318a0c68b57d8c10e0a",
+  "notes": "Automatic Windows update v1.0.11",
+  "publishedAt": "2026-10-05T09:56:22.0423289Z"
 }
